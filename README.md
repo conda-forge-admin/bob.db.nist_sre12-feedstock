@@ -69,9 +69,10 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bob.db.nist_sre12-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/bob.db.nist_sre12-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/bob.db.nist_sre12-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bob.db.nist_sre12-feedstock) 
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/bob.db.nist_sre12-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/bob.db.nist_sre12-feedstock/branch/master)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/bob-db-nist-sre12-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/bob-db-nist-sre12-feedstock/branch/master)
 
 Current release info
 ====================
